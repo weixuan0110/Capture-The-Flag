@@ -22,7 +22,8 @@
 
 4. **Retrieve the Flag:**
    - After executing the above command, the decrypted content will reveal the flag.
-   ![image](https://github.com/user-attachments/assets/753b994d-62ee-40b4-80d1-de8d256f203b)
+   - <img width="503" alt="image" src="https://github.com/user-attachments/assets/62bf3474-b2b5-4650-8f17-6c4783011410" />
+
 #### Outcome:
 By following these steps, the flag was successfully retrieved and the challenge was completed!
 
