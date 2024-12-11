@@ -20,6 +20,8 @@
 4. **Locate the Encoded Data:**
 
    - Then I found a hash-like code embedded within the page's source or attributes.
+   - ![image](https://github.com/user-attachments/assets/4f23eb83-179b-4337-b5e1-f86405f44007)
+
 
 5. **Decode the Data:**
 
