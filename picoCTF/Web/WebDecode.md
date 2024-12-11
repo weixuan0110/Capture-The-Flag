@@ -1,10 +1,3 @@
-### WebDecode
-
-frist we go to the website given.
-i inspect the website and see nothing special in it.
-then i press the about page and i see it tell us to inspect it
-after inspect looks like the code is smth hash so i throw it into cyberchef
-and found the flag
 ### WebDecode Challenge Writeup
 
 #### Steps to Solve:
