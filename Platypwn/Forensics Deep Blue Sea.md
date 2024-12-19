@@ -1,7 +1,3 @@
-Below is the suggested README format for your GitHub write-up:
-
----
-
 # Deep Blue Sea: Treasure Hunt Write-Up
 
 Credit to RE:UN1ON Team (I just do half then they have done this!!)
