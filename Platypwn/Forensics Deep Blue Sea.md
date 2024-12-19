@@ -1,4 +1,4 @@
-# Deep Blue Sea: Treasure Hunt Write-Up
+# Deep Blue Sea: Write-Up
 
 Credit to RE:UN1ON Team (I just do half then they have done this!!)
 **Flag:** `PP{f1L3_F0rm4t5_4r3_a_Tr345uR3_tR0v3}`  
