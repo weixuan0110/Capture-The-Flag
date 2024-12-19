@@ -30,7 +30,7 @@ Or so they say. You, a renowned treasure hunter, have paid a lot for the soggy p
 ---
 
 ### 2. Identify the Key Layers
-- **Layer 0 (`layer0.png`)**: Contains dots marked with crimson ink.
+- **Layer 0 (`layer0.png`)**: Contains dots marked with crimson ink.(it looks transparent, but have rgba hidden in the png)
 - **Layer 1 (`layer1.png`)**: Contains encoded information in the blue channel.
 
 ---
