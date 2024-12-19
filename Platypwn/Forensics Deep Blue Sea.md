@@ -7,9 +7,9 @@ Credit to RE:UN1ON Team (I just do half then they have done this!!)
 
 ## Challenge Description
 
-Legendary pirate Bluebeard has traveled far and wide over the Deep Blue Sea and left behind an ancient treasure map. This map, marked with crimson ink, holds the key to finding Bluebeard’s most enormous treasure.
+Legendary pirate Bluebeard has travelled far and wide over the Deep Blue Sea and has seen every corner of it. The crew’s legendary ship, the Blue Pearl, is just as legendary. As is Bluebeard’s famous cutlass, and parrot, and eyepatch, and so on. Almost as legendary is Bluebeard’s ancient treasure map, on which parts of the Sea are said to be marked with blots of crimson ink. There, Bluebeard has buried countless treasures over the years. But the biggest treasure can only be found if all other stashes are discovered. Then, the legend goes, the Depth of the Sea at their locations points to where Bluebeard’s most enormous treasure lies, buried beneath the waves of the Deep Blue Sea itself.
 
-Your task is to extract the hidden message from the treasure map using its layers and reveal the flag.
+Or so they say. You, a renowned treasure hunter, have paid a lot for the soggy piece of parchment now lying in front of you. It smells of seaweed and rip-off. You decide that it’s time to slowly peel it open and see if the Sea has left over anything of Bluebeard’s notes.
 
 ---
 
