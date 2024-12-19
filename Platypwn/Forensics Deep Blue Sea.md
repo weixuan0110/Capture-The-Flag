@@ -169,6 +169,3 @@ PP{f1L3_F0rm4t5_4r3_a_Tr345uR3_tR0v3}
 ## Acknowledgements
 - **RE:UN1ON Team**: Original solution credit.
 
---- 
-
-This README format provides a structured and detailed walkthrough of the solution for others to follow.
