@@ -1,7 +1,7 @@
 # Deep Blue Sea: Write-Up
 
 Credit to RE:UN1ON Team (I just do half then they have done this!!)
-**Flag:** `PP{f1L3_F0rm4t5_4r3_a_Tr345uR3_tR0v3}`  
+**Flag:** `PP{f1L3_F0rm4t5_XXXXXXXXXXXXXXXXXXX}`  (Not the flag)
 
 ---
 
@@ -135,7 +135,7 @@ except Exception as e:
 
 #### Decoded Message:
 ```
-PP{f1L3_F0rm4t5_4r3_a_Tr345uR3_tR0v3}
+PP{f1L3_F0rm4t5_XXXXXXXXXXXXXXXXXXXX}(Not the flag)
 ```
 
 #### Coordinate Mapping:
@@ -161,11 +161,11 @@ PP{f1L3_F0rm4t5_4r3_a_Tr345uR3_tR0v3}
 
 ## Flag
 ```
-PP{f1L3_F0rm4t5_4r3_a_Tr345uR3_tR0v3}
+PP{f1L3_F0rm4t5_XXXXXXXXXXXXXXXXXXXX} (Not the flag)
 ```
 
 ---
 
 ## Acknowledgements
-- **RE:UN1ON Team**: Original solution credit.
+- **RE:UN1ON Team**: Original solution credit!!!!
 
