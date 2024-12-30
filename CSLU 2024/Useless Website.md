@@ -33,6 +33,7 @@
 
 5. And we can find out the flag at the end of the webhook link.
    - ![image](https://github.com/user-attachments/assets/ee3ce174-09de-43c1-82ea-43f979aa075d)
+   - ```CSLU{wh4ts_y0ur_et4?}```
 
 ### Acknowledgement
 Thx for Megat for the solution.
