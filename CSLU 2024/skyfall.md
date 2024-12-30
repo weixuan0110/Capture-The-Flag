@@ -32,6 +32,7 @@
     - We can find out that the epoch for the time she download the file is ```1733988750```
 15. Then use GPT xd find the key out
     - ![image](https://github.com/user-attachments/assets/c5d87093-080a-410e-b361-ce07d7c64747)
+    - ps: I also dk why need to use ```1733988749``` just told by my friend to use it cant find any things that support this epoch XD.
 15. Okay, then let us go to decrypt it. Use cyberchef
 16. ![image](https://github.com/user-attachments/assets/0a6837ae-ddf5-41d3-a810-7318c56a4607)
     Heres the flag.
