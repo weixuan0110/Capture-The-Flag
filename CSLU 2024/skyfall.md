@@ -39,7 +39,7 @@
 Okay its maybe abit harder than i though. cry die.
 
 
-#### acknowledgement
+#### Acknowledgement
 Thx to Bakayang for providing solution at the end of the day
 
 
