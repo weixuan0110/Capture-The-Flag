@@ -6,4 +6,6 @@
   - glacierCTF
   - Platypwn CTF
   - CyberX CTF -CHAMPION!!!!
-  - Up Coming 0CTF
+  - 0CTF
+  - CSLU UPM
+  - Up Coming IrisCTF
